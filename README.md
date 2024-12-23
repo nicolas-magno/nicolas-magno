@@ -7,4 +7,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-magno&show_icons=true&locale=en&layout=compact" alt="nicolas-magno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-magno&" alt="nicolas-magno" /></p>
+
